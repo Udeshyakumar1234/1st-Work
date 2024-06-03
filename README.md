@@ -1,2 +1,1 @@
-#Test
-random stuff
+A simple Hostel Management Software.
